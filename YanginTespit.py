@@ -8,7 +8,6 @@ import cv2 # goruntu isleme ile ilgili fonksiyonlari kullanabilmek icin gereklid
 import smtplib # alan tespit edildiginde ilgili ksisye mail gondermek icin gerekli
 import time # cihazin daha kesin tespit yapabilmesi icin videoyu ya da canli goruntuyu bir miktar yavaslatir
 import requests # internetten ip kullanarak veri cekmek icin kullanilir
-import pyodbc # bulunan konumu veritabanina kaydetmek icin kullanilir
 
 
 class Konum_Tespit:
